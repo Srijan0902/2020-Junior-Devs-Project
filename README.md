@@ -1,4 +1,4 @@
-# 2020 Junior Devs Project - Earth Academy
+# 2020 Junior Devs Project - Earth Academy(To help beginners)
 2020 collaboration project for members of the Junior Devs group
 
 ## Purpose of this project
